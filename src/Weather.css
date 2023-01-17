@@ -17,7 +17,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  bottom: -133px;
 }
 .temp {
   display: flex;
