@@ -1,0 +1,19 @@
+.main {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: -133px;
+}
+.temp {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
