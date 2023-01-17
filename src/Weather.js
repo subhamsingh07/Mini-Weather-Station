@@ -39,7 +39,9 @@ function Weather() {
 
     return (
         <>
-            <Typography>MINI WEATHER STATION</Typography>
+            <div className='header'>
+                <h1>MINI WEATHER STATION</h1>
+            </div>
             <div className='main'>
 
                 <Card sx={{ minWidth: 345, padding: 8 }} elevation={5}>
