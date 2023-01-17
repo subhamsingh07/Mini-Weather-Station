@@ -1,3 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Explora&display=swap");
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Caveat", cursive;
+}
+h1 {
+  font-size: 60px;
+  bottom: -50px;
+  color: rgb(198, 164, 80);
+}
 .main {
   height: 100%;
   width: 100%;
